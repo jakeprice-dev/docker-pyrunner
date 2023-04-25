@@ -9,6 +9,6 @@ docker run \
     --rm \
     --tty \
     --volume "$PWD/:/app" \
-    pyrunner:latest python3 <script>.py
+    jakepricedev/docker-pyrunner:latest python3 <script>.py
 ```
 
