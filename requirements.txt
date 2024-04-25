@@ -3,7 +3,7 @@ Markdown==3.4.1
 PyYAML==6.0.1
 beautifulsoup4==4.12.2
 dateutils==0.6.12
-lxml==4.9.2
+lxml==5.2.1
 mdx_wikilink_plus==1.4.1
 praw==7.5.0
 pymdown-extensions==10.0.1
